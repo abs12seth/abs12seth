@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Sabesan | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="Abhishek | LinkedIn" height="22px" src="./social-logo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Abhishek | Instagram" height="22px" src="./social-logo/Instagram.png" />][instagram]
+[<img align="left" alt="Abhishek | Twitter" height="22px" src="./social-logo/Twitter.png" />][twitter]
