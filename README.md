@@ -7,7 +7,7 @@
 - JAVA
 
 
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abs12seth&theme=graywhite"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=abs12seth&show_icons=true&theme=graywhite" />
 
 
