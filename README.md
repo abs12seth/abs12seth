@@ -6,6 +6,7 @@
 - Python
 - JAVA
 - Dart
+- Solidity
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abs12seth&theme=graywhite"/>
